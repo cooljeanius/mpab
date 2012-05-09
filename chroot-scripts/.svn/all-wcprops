@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/macports/!svn/ver/83032/contrib/mpab/chroot-scripts
+END
+installmacports
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/macports/!svn/ver/81426/contrib/mpab/chroot-scripts/installmacports
+END
+chrootshell
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/macports/!svn/ver/79867/contrib/mpab/chroot-scripts/chrootshell
+END
+buildports
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/macports/!svn/ver/83032/contrib/mpab/chroot-scripts/buildports
+END
+recreateportindex
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/macports/!svn/ver/79880/contrib/mpab/chroot-scripts/recreateportindex
+END
+genportlist.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/macports/!svn/ver/79836/contrib/mpab/chroot-scripts/genportlist.tcl
+END
+selfupdate
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/macports/!svn/ver/80242/contrib/mpab/chroot-scripts/selfupdate
+END

@@ -1,0 +1,14 @@
+#!/bin/sh
+#
+# re-create the portindex
+#
+
+if [[ -z "$PREFIX" ]]; then
+    PREFIX=/opt/local
+fi
+if [[ -z "$SRC_PREFIX" ]]; then
+    SRC_PREFIX=/opt/mports
+fi
+
+cd ${SRC_PREFIX}/dports
+${PREFIX}/bin/portindex
